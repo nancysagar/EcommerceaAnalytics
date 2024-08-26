@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/EcommerceaAnalytics/static/css/main.1b1e7ea1.css",
+    "main.js": "/EcommerceaAnalytics/static/js/main.10e1ac76.js",
+    "static/js/453.419a5d54.chunk.js": "/EcommerceaAnalytics/static/js/453.419a5d54.chunk.js",
+    "index.html": "/EcommerceaAnalytics/index.html",
+    "main.1b1e7ea1.css.map": "/EcommerceaAnalytics/static/css/main.1b1e7ea1.css.map",
+    "main.10e1ac76.js.map": "/EcommerceaAnalytics/static/js/main.10e1ac76.js.map",
+    "453.419a5d54.chunk.js.map": "/EcommerceaAnalytics/static/js/453.419a5d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b1e7ea1.css",
+    "static/js/main.10e1ac76.js"
+  ]
+}
